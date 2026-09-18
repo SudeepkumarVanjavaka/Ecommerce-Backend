@@ -1,0 +1,25 @@
+"name","description","category","price","stock","published"
+"earphones","latest new feature","Electronics",400,19,true
+"shirts","formal shirts","clotes",100,19,true
+"pens","normal pens","pens",20,19,true
+"pens","normal pens","pens",10,4,false
+"Laptop","High performance laptop for work and study","Electronics",55000,10,true
+"Mobile Phone","Smartphone with good camera and battery","Electronics",25000,20,true
+"Keyboard","Comfortable wireless keyboard","Accessories",1200,30,true
+"Mouse","Wireless mouse for computer","Accessories",700,40,true
+"Headphones","Wireless headphones with clear sound","Accessories",1800,25,true
+"Monitor","Full HD computer monitor","Electronics",15000,15,true
+"Printer","Color printer for home and office","Electronics",12000,8,true
+"USB Cable","Fast charging USB cable","Accessories",300,50,true
+"Webcam","HD webcam for video calls","Electronics",2500,18,true
+"Power Bank","Portable power bank for mobile devices","Electronics",1800,22,false
+"Smart Watch","Smart watch with fitness tracking","Wearables",3500,12,true
+"Bluetooth Speaker","Portable speaker with wireless connection","Electronics",2200,16,true
+"Tablet","Lightweight tablet for study and entertainment","Electronics",18000,9,true
+"Backpack","Durable backpack for laptop and books","Bags",1500,35,true
+"Desk Lamp","LED desk lamp for study and work","Home",900,28,true
+"External Hard Drive","Portable storage drive for files","Storage",6500,14,true
+"SSD","Fast solid state drive for computers","Storage",5000,11,true
+"Microphone","USB microphone for online meetings","Accessories",3200,7,false
+"Router","High speed Wi-Fi router for home","Networking",2800,19,true
+"Gaming Chair","Comfortable chair for gaming and work","Furniture",12000,6,true
